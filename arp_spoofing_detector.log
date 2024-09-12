@@ -1,0 +1,8 @@
+2024-09-12 09:53:31,154 - INFO - Starting ARP Spoofing Detection...
+2024-09-12 09:53:31,155 - INFO - [*] ARP Counters:
+2024-09-12 09:53:31,155 - INFO - 	IP: 192.168.0.1, ARP Counter: 0
+2024-09-12 09:53:31,155 - INFO - 	[*] Counters reset to 0
+2024-09-12 09:53:34,461 - INFO - ARP Request: IP 192.168.0.1 is asking for MAC address of 192.168.0.72
+2024-09-12 09:53:42,620 - INFO - Starting ARP Spoofing Detection...
+2024-09-12 09:53:43,984 - INFO - ARP Request: IP 192.168.0.1 is asking for MAC address of 192.168.0.237
+2024-09-12 09:54:36,481 - INFO - ARP Request: IP 192.168.0.1 is asking for MAC address of 192.168.0.72
