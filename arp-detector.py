@@ -95,7 +95,7 @@ class ARPSpoofingDetector:
                         logging.info(f"ARP Request: IP {arp_packet.psrc} is asking for MAC address of {arp_packet.pdst}")
                 self.last_alert_time = current_time
         except Exception as e:
-            logging.error(f"Error in detect_arp_spoofing: {e}")
+            logging.error(f"Error in detect_arp_spoofing: {e}");
 
     def verify_ip_mac(self, ip, mac):
         try:
